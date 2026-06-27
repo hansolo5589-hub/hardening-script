@@ -1,0 +1,19 @@
+# Ghost Node Hardening Toolkit
+**By: hansolo5589-Mohd Firoz**
+
+A minimalist, high-performance security suite for Arch Linux. 
+
+## ⚠️ WARNING: READ BEFORE EXECUTION
+**THIS SCRIPT MODIFIES SYSTEM KERNEL PARAMETERS AND FIREWALL RULES.**
+- Use this script at your own risk. 
+- You are responsible for your own system integrity. 
+- Understand what these scripts do before execution. 
+- If you don't know what `nftables` or `sysctl` does, study first. 
+- I am not responsible for any "nuclear explosions" or system lockouts resulting from misuse.
+
+## Philosophy
+- **Minimalism:** No unnecessary packages.
+- **Transparency:** All logic is visible and modular.
+- **Control:** You own your perimeter.
+
+### Tested and Runing on ARCH Linux.
