@@ -1,5 +1,7 @@
 # Ghost Node Hardening Toolkit
 **By: hansolo5589-Mohd Firoz**
+**Creation platform:Arch Linux
+**Tested: DEBIAN, ARCH, KALI, FEDORA
 
 A minimalist, high-performance security suite for Linux. 
 
@@ -16,4 +18,4 @@ A minimalist, high-performance security suite for Linux.
 - **Transparency:** All logic is visible and modular.
 - **Control:** You own your perimeter.
 
-### Tested and Runing on ARCH, DEBIAN, FEDORA, KALI Linux.
+### Runing on MY LABS- ARCH, DEBIAN, FEDORA, KALI & ALPINE Linux.
