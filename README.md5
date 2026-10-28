@@ -1,7 +1,7 @@
 # Ghost Node Hardening Toolkit
 **By: hansolo5589-Mohd Firoz**
 
-A minimalist, high-performance security suite for Arch Linux. 
+A minimalist, high-performance security suite for Linux. 
 
 ## ⚠️ WARNING: READ BEFORE EXECUTION
 **THIS SCRIPT MODIFIES SYSTEM KERNEL PARAMETERS AND FIREWALL RULES.**
